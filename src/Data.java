@@ -1,7 +1,7 @@
 /*
 *
 *class for testing git 
-*@ismael
+*@jamil
 */
 public class data{
 }
